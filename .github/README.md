@@ -16,7 +16,7 @@ Define a list of LAN hosts (names, addresses, etc).
 
 ## Purpose
 
-* Define a list of LAN hostnames and addresses.
+* Define a list of LAN hosts (names, addresses, etc).
 
 ## Usage
 
